@@ -14,7 +14,7 @@ Which enable the ignoreStat, please use the
 ### OptimazingSSH.sh ---- Any Projects which are using SSH 
 Which optimazing the SSH setting
 
-# How is work
+# How it works
 
 #### 1. Repack the obects, the default was not to change the window or depth at all. As suggested by Jon Smirl, Linus Torvalds and others
 ```bash
